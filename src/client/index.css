@@ -1,0 +1,100 @@
+body {
+  margin:0;
+	padding:0;
+	font-family: sans-serif;
+	//background-image: url("./level_app.png");
+	 
+}
+li {
+  font-family: sans-serif;
+  
+  text-align: center;
+  list-style-type: none;
+  justify-content: space-around;
+  align-items: center;
+  background: lightblue;
+  margin: 0;
+}
+div.Profile_page {
+  display: flex;
+  text-align: center;
+  list-style-type: none;
+  justify-content: space-around;
+  align-items: center;
+  background: lightblue;
+  margin: 0;
+}
+div.Profile_page{
+  text-align: center;
+  padding: 0;
+}
+div.Profile_page li a {
+  color: #66;
+  background: lightblue;
+  font-weight: bold;
+  text-decoration: none;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+  display: flex;
+}
+
+div.English_game li {
+
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+}
+div.English_game {
+color: yellow;
+  text-align: center;
+  padding: 0;
+}
+div.English_game li a {
+color: yellow;
+  background-color: bluelight;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+
+div.shop li {
+
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+}
+div.shop {
+  text-align: center;
+  padding: 0;
+}
+div.shop li a {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+}
+
+.content {
+  background-color: #FFF;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 5px;
+}
+
+form.LoginPage{
+	
+	background-color: #fff;
+}
